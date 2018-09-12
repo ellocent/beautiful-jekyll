@@ -64,11 +64,11 @@ Código para adicionar um novo item:
       <td>Mojito</td>
       <td align="center">      
         <ul>
-          <li>Rum branco - 50 ml</li>
+          <li>Hortelã - 10 a 15 folhas</li>
           <li>Suco de limão - 25 ml</li>
           <li>Açúcar - 15 ml</li>
+          <li>Rum branco - 50 ml</li>
           <li>Água tônica - 100 ml</li>
-          <li>Hortelã - 10 a 15 folhas</li>
         </ul>
       </td>
       <td align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeE-ZO4-3eMFmgdfdxpL0Rg1SGfVkLsKtKiXVRzaKHZcHvmRA/viewform?usp=sf_link">Avalie</a> </td>
@@ -308,6 +308,19 @@ Código para adicionar um novo item:
         </ul>
       </td>
       <td align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfo19sybtmtiCFqg4Q_QXL6xgISz5ozOF_k-7t_Y8DXuhqD2g/viewform?usp=sf_link">Avalie</a></td>
+    </tr>
+    <tr>
+     <td>Queen's Park Swizzle</td>
+      <td align="center">
+        <ul>
+          <li>Hortelã - 4 a 8 folhas</li>
+          <li>Suco de limão - 15 ml</li>
+          <li>Xarope Demerara - 15 ml</li>
+          <li>Angostura - 2 pitadas</li>
+          <li>Rum escuro - 60ml</li>
+        </ul>
+      </td>
+      <td align="center"><a href="">Avalie</a></td>
     </tr>
   </tbody>
 </table>
