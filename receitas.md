@@ -309,6 +309,20 @@ Código para adicionar um novo item:
       </td>
       <td align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfo19sybtmtiCFqg4Q_QXL6xgISz5ozOF_k-7t_Y8DXuhqD2g/viewform?usp=sf_link">Avalie</a></td>
     </tr>
+      <tr>
+      <td>Queen's Park Swizzle</td>
+      <td align="center">
+        <ul>
+          <li>Hortelã - 4 a 8 folhas</li>
+          <li>Xarope Demerara - 15 ml</li>
+          <li>Suco de limão - 15 ml</li>
+          <li>Angostura - 2 sacudidas</li>
+          <li>Rum Escuro - 60 ml</li>
+          <li>Grenadine - 1 gota</li>
+        </ul>
+      </td>
+      <td align="center"><a href="">Avalie</a></td>
+    </tr>
   </tbody>
 </table>
 
